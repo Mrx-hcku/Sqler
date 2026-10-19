@@ -1,0 +1,6 @@
+flask
+tensorflow
+numpy
+groq
+requests
+gunicorn
